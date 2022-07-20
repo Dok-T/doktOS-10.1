@@ -1,17 +1,11 @@
 
-# ![](https://github.com/Dok-T/doktOS-10.1/raw/main/Medias/Logos/Exports/doktOS_Logo.png)        doktOS 10.1 
 
-  
-
-
-
-  
-
-  
-
+<p align="center"> <img src="https://github.com/Dok-T/doktOS-10.1/raw/main/Medias/Logos/Exports/doktOS_Logo.png" alt="Sublime's custom image"/> </p> 
+ 
+# doktOS 10.1
 >  *UX=/UI*
-
-  
+ 
+ 
 
   
 
