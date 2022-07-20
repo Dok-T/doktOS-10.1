@@ -1,6 +1,6 @@
 # doktOS 10.1
 
-![](https://github.com/Dok-T/doktOS-10.1/Medias/Logos/Exports/doktOS_Logo.png)
+![](https://github.com/Dok-T/doktOS-10.1/raw/main/Medias/Logos/Exports/doktOS_Logo.png)
 
   
 
